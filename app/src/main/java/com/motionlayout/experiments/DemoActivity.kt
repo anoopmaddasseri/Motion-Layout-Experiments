@@ -23,7 +23,7 @@ data class MotionExperiment(
 private val experiments = listOf(
     MotionExperiment(
         "Experiment 1",
-        "Floating Floating Action Menu animation",
+        "Floating Action Menu animation",
         "Learn how to build a Floating Action Menu animation with Motion Layout.",
         MotionFabMenuActivity::class
     )
